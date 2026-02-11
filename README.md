@@ -102,3 +102,8 @@ We will review **partial submissions seriously** if the completed parts are high
 Reply to the task email within 48 hours — we'll respond quickly.
 
 Good luck — we're excited to see what you build!
+
+## Why We Use This Task
+We respect your time and want to be transparent about our process. We receive hundreds of applications (far more than expected for our small Uzbekistan-based team shipping to Japanese clients), so we use a focused test task drawn from real project work we have already completed to identify strong fits without requiring lengthy initial interviews for everyone. This lets candidates showcase relevant skills on something meaningful, and successful candidates are highly likely to work on similar projects.
+
+If this approach does not align with what you are looking for, no hard feelings, and we wish you the best in your search.
